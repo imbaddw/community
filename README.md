@@ -2,9 +2,10 @@
 
 资料参考
 
-https://spring.io/
+[spring 文档](https://spring.io/)
 
-https://spring.io/guides/gs/serving-web-content/
+[spring web](https://spring.io/guides/gs/serving-web-content/)
 
-https://docs.github.com/cn/developers/apps/building-oauth-apps/creating-an-oauth-app
+[git api](https://docs.github.com/cn/developers/apps/building-oauth-apps/creating-an-oauth-app )
+
 工具
